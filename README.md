@@ -1,2 +1,3 @@
 # Samples-and-such
-Some writing samples
+
+Just a place to store some writing samples.
